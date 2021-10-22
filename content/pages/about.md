@@ -37,7 +37,7 @@ Soy desarrolladora fullstack, docente - investigadora sobre el uso de las tic en
 
 Egresada de URBE como Ingeniera en Computación y Magister en Telemática; y de UNEFA como Doctora en Ciencias Gerenciales.
 
-Soy docente universitaria de asignaturas de pregrado y postgrado en el área de ingeniería de sistemas y gerencia de recursos humanos. Experta en educación virtual egresada de FATLA. Y, no paro de aprender en PLATZI.
+Soy docente universitaria de asignaturas de pregrado y postgrado en el área de ingeniería de sistemas, gerencia de recursos humanos y ciencias gerenciales. Experta en educación virtual egresada de FATLA. Y, no paro de aprender en PLATZI.
 
 Venezolana en Venezuela. Mamá de Gabo y Santi. Hija de Alida Rosa y Pérez Piña(+).
 
