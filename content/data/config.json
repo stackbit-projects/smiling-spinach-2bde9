@@ -39,14 +39,6 @@
                 "no_follow": false
             },
             {
-                "label": "Gerencia",
-                "url": "/gerencia/",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
                 "label": "Style Guide",
                 "url": "/style-guide/",
                 "style": "link"
