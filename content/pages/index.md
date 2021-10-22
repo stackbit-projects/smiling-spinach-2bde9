@@ -10,7 +10,7 @@ sections:
       digital con éxito. 
   - section_id: about
     type: section_content
-    title: About
+    title: ¿Qué podemos hacer juntos?
     content: >
       Soy desarrolladora fullstack, docente - investigadora sobre el uso de las
       tic en la gerencia. Mi pasión, aprender sobre tecnología y sus
