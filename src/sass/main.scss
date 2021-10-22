@@ -11,6 +11,8 @@ $palette: (
   secondary:     darken(#05008f, 15%),
   meta:          lighten(#555e69, 25%),
   border:        lighten(#555e69, 55%),
+  background: rgb(2,0,65);
+background: linear-gradient(16deg, rgba(2,0,65,1) 0%, rgba(0,4,122,1) 72%, rgba(192,76,253,1) 100%);
   bg:            lighten(#020041, 60%),
   accent:        #1de8ff,
   accent-blue:   #10bcf9,
