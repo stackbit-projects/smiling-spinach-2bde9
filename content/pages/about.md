@@ -1,6 +1,6 @@
 ---
 title: Acerca de mí
-subtitle: Esta es una breve reseña sobre mi trabajo
+subtitle: Esta es una breve reseña sobre mi trabajo e intereses
 img_path: images/about.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
