@@ -25,6 +25,7 @@ sections:
       - label: ir al blog
         url: blog/
         style: button
+        new_window: true
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
