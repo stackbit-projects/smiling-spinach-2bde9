@@ -26,17 +26,17 @@
                 "style": "link"
             },
             {
-                "label": "Contáctame",
-                "url": "/contacto/",
-                "style": "link"
-            },
-            {
                 "label": "Tecnología",
                 "url": "/tecnologia/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Contáctame",
+                "url": "/contacto/",
+                "style": "link"
             },
             {
                 "label": "Gerencia",
