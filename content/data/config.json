@@ -29,11 +29,6 @@
                 "label": "Contáctame",
                 "url": "/contact",
                 "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
             }
         ],
         "has_social": true,
