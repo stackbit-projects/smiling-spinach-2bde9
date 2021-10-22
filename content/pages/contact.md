@@ -30,7 +30,7 @@ sections:
       - input_type: textarea
         name: message
         label: Mensaje
-        default_value: Your message
+        default_value: Redacta tu mensaje aquí
       - input_type: checkbox
         name: consent
         label: >-
