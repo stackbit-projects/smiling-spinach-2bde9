@@ -10,7 +10,7 @@ sections:
       digital con éxito. También apoyo a investigadores como tutora académica.
   - section_id: about
     type: section_content
-    title: ¿Qué podemos hacer juntos?
+    title: servicios
     actions:
       - label: CONTÁCTAME
         url: /contact
