@@ -27,7 +27,7 @@ sections:
           - Solicitar una consultoría
           - Me gustaría tener una página web
           - Deseo un sistema web
-          - lorem-ipsum
+          - Otro
       - input_type: textarea
         name: message
         label: Mensaje
