@@ -11,28 +11,6 @@ sections:
   - section_id: about
     type: section_content
     title: ¿Qué podemos hacer juntos?
-    content: >
-      Soy desarrolladora fullstack, docente - investigadora sobre el uso de las
-      tic en la gerencia. Mi pasión, aprender sobre tecnología y sus
-      posibilidades al servicio de la gente!
-
-
-      Egresada de URBE como Ingeniera en Computación y Magister en Telemática; y
-      de UNEFA como Doctora en Ciencias Gerenciales.
-
-
-      Docente universitaria. Experta en educación virtual egresada de FATLA. Y,
-      no paro de aprender en PLATZI.
-
-
-      Soy venezolana en Venezuela. Mamá de Gabo y Santi. Hija de Alida Rosa y
-      Pérez Piña(+).
-
-
-      Mi mayor riqueza, mi familia, mis amigos y mi pasión!
-
-
-      Mi sueño, conocer el mundo siendo nómada digital.
     actions:
       - label: CONTÁCTAME
         url: /contact
