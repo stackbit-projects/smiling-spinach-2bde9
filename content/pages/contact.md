@@ -24,7 +24,7 @@ sections:
         label: Asunto
         default_value: Please select
         options:
-          - Solicitar una consultoría
+          - Solicitar una consultoría de transformación digital
           - Me gustaría tener una página web
           - Deseo un sistema web
           - Otro
