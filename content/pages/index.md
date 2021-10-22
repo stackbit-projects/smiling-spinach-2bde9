@@ -15,8 +15,18 @@ sections:
       - label: CONTÁCTAME
         url: /contact
         style: button
-    content: |
-      dfadfadfadfa
+    content: >+
+      Diagnóstico y análisis de necesidades para proponer procesos de
+      transformación digital y gestión de cambio atendiendo el involucramiento y
+      motivación del recurso humano.
+
+
+      Diseño y desarrollo de estrategias que involucran tecnología, recurso
+      humano y reglas de negocio para el  éxito en digital.
+
+
+      Diseño y desarrollo de sistemas y páginas web.
+
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
