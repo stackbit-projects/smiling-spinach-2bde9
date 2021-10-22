@@ -5,7 +5,7 @@
     "palette": "blue",
     "header": {
         "title": "Ydelbys",
-        "profile_img": "images/avatar.png",
+        "profile_img": "/images/3 profile-pic.png",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
