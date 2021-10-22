@@ -15,6 +15,8 @@ sections:
       - label: CONTÁCTAME
         url: /contact
         style: button
+    content: |
+      dfadfadfadfa
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
