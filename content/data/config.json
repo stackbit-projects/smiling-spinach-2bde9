@@ -83,7 +83,7 @@
                 "new_window": true
             },
             {
-                "label": "DEV",
+                "label": "codepen",
                 "url": "https://codepen.io/ydelbys",
                 "style": "icon",
                 "icon_class": "dev",
