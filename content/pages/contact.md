@@ -25,7 +25,7 @@ sections:
         default_value: Please select
         options:
           - Solicitar una consultoría
-          - Sponsorship
+          - Me gustaría tener una página web
           - Other
       - input_type: textarea
         name: message
