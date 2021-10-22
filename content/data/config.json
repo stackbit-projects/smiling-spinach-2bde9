@@ -8,7 +8,7 @@
         "profile_img": "/images/3 profile-pic.png",
         "profile_img_alt": "Ydelbys Pérez Duno",
         "background": "dark",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Inicio",
