@@ -5,9 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, Soy Ydelbys Pérez Duno.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Ayudo a pymes y profesionales a iniciar su camino de transformación
+      digital con éxito. Soy desarrolladora fullstack, docente - investigadora
+      sobre el uso de las tic en la gerencia. Mi pasión, aprender sobre
+      tecnología y sus posibilidades!
   - section_id: about
     type: section_content
     title: About
