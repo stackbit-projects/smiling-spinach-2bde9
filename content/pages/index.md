@@ -34,7 +34,7 @@ sections:
 
       Mi sueño, conocer el mundo siendo nómada digital.
     actions:
-      - label: ContÁCTAME
+      - label: CONTÁCTAME
         url: /contact
         style: button
   - section_id: recent-posts
