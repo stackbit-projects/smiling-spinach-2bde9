@@ -28,7 +28,7 @@ sections:
       Mamá de Gabo y Santi. Hija de Alida Rosa y Pérez Piña(+).
 
     actions:
-      - label: Contact Me
+      - label: ContÁCTAME
         url: /contact
         style: button
   - section_id: recent-posts
