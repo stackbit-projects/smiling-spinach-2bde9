@@ -22,7 +22,7 @@ sections:
     title: Recent Posts
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: ir al blog
         url: blog/
         style: button
 seo:
