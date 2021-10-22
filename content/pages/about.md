@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**
+\*\*
 
 Soy desarrolladora fullstack, docente - investigadora sobre el uso de las tic en la gerencia. Mi pasión, aprender sobre tecnología y sus posibilidades al servicio de la gente!
 
@@ -44,3 +44,5 @@ Venezolana en Venezuela. Mamá de Gabo y Santi. Hija de Alida Rosa y Pérez Piñ
 Mi mayor riqueza, mi familia, mis amigos y mi pasión por aprender y hacer cosas!
 
 Mi sueño, conocer el mundo siendo nómada digital.
+
+Gracias por leerme!
