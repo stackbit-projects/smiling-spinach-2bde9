@@ -25,8 +25,8 @@ sections:
       no paro de aprender en PLATZI.
 
 
-      Venezolana en Venezuela. Mamá de Gabo y Santi. Hija de Alida Rosa y Pérez
-      Piña(+).
+      Soy venezolana en Venezuela. Mamá de Gabo y Santi. Hija de Alida Rosa y
+      Pérez Piña(+).
 
 
       Mi mayor riqueza, mi familia, mis amigos y mi pasión!
