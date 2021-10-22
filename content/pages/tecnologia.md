@@ -3,12 +3,6 @@ title: Home
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - section_id: hero
-    type: section_hero
-    title: 'Hola, Soy Ydelbys Pérez Duno.'
-    content: >
-      Ayudo a pymes y profesionales a iniciar su camino de transformación
-      digital con éxito. 
   - section_id: about
     type: section_content
     title: About
