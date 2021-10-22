@@ -11,11 +11,22 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >+
+      Soy desarrolladora fullstack, docente - investigadora sobre el uso de las
+      tic en la gerencia. Mi pasión, aprender sobre tecnología y sus
+      posibilidades al servicio de la gente!
+
+
+      Egresada de URBE como Ingeniera en Computación y Magister en Telemática; y
+      de UNEFA como Doctora en Ciencias Gerenciales.
+
+
+      Docente universitaria. Experta en educación virtual egresada de FATLA. Y,
+      no paro de aprender en PLATZI.
+
+
+      Mamá de Gabo y Santi. Hija de Alida Rosa y Pérez Piña(+).
+
     actions:
       - label: Contact Me
         url: /contact
