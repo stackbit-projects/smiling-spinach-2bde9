@@ -28,6 +28,7 @@ sections:
           - Me gustaría tener una página web
           - Deseo un sistema web
           - Otro
+        is_required: true
       - input_type: textarea
         name: message
         label: Mensaje
