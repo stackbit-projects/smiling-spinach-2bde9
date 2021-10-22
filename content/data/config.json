@@ -31,14 +31,6 @@
                 "style": "link"
             },
             {
-                "label": "Tecnología",
-                "url": "/tecnologia/",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
                 "label": "Style Guide",
                 "url": "/style-guide/",
                 "style": "link"
