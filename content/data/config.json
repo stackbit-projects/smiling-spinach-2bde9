@@ -34,17 +34,17 @@
                 "no_follow": false
             },
             {
-                "label": "Contáctame",
-                "url": "/contacto/",
-                "style": "link"
-            },
-            {
                 "label": "Gerencia",
                 "url": "/gerencia/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Contáctame",
+                "url": "/contacto/",
+                "style": "link"
             },
             {
                 "label": "Style Guide",
