@@ -26,11 +26,6 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
                 "label": "Contáctame",
                 "url": "/contacto/",
                 "style": "link"
@@ -50,6 +45,11 @@
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "style": "link"
             }
         ],
         "has_social": true,
