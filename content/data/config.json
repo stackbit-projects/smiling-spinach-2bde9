@@ -37,7 +37,7 @@
             },
             {
                 "label": "Tecnología",
-                "url": "/tecnología",
+                "url": "/tecnologia/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
