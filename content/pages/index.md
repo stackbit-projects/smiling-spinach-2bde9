@@ -16,16 +16,21 @@ sections:
         url: /contact
         style: button
     content: >+
-      Diagnóstico y análisis de necesidades para proponer procesos de
-      transformación digital y gestión de cambio atendiendo el involucramiento y
-      motivación del recurso humano.
+      El éxito digital de una empresa o profesional no sólo consiste en la
+      aplicación de herramientas tecnológicas en sus procesos y servicios. Este
+      es más complejo de lo que generalmente asumen los responsables. Es
+      necesario organizar un sistema complejo que involucre las reglas de
+      negocio, la tecnología y, lo más importante, la gente. Es por ello que,
+      ayudo a empresas y profesionales desde el diagnóstico y análisis de
+      necesidades, la creación de estrategias de transformación digital y
+      gestión de cambio atendiendo el involucramiento y motivación del recurso
+      humano, el uso de las tecnologías y las reglas del negocio.
 
 
-      Diseño y desarrollo de estrategias que involucran tecnología, recurso
-      humano y reglas de negocio para el  éxito en digital.
+      Diseño y desarrollo de sistemas y páginas web que venden atendiendo
+      técnicas de copywriting, diseño ui/ux y adaptación responsiva.
 
 
-      Diseño y desarrollo de sistemas y páginas web.
 
   - section_id: recent-posts
     type: section_posts
