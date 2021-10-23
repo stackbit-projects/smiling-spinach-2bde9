@@ -74,5 +74,6 @@
     "footer": {
         "content": "&copy;  ydelbys 2021.  Sitio desarrollado con tecnología jamstack ."
     },
-    "domain": "https://ydelbys-perez-duno.netlify.app"
+    "domain": "https://ydelbys-perez-duno.netlify.app",
+    "favicon": "/images/FAVICON-03.jpg"
 }
