@@ -23,6 +23,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    title: Te doy la bienvenida
   - section_id: about
     type: section_content
     title: servicios
