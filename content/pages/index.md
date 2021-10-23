@@ -54,7 +54,9 @@ sections:
         new_window: true
 seo:
   title: Ydelbys Pérez Duno
-  description: 'Desarrolladora mern stack y python. Transformación digital. '
+  description: >-
+    Experta en transformación digital. Desarrollo web. Complejidad.
+    Investigadora en uso de las tic en gerencia.
   extra:
     - name: 'og:type'
       value: website
