@@ -8,8 +8,7 @@ sections:
     content: >
       Ayudo a pymes y profesionales a iniciar su camino de transformación
       digital con éxito. También apoyo a investigadores como tutora académica.
-  - title: Te doy la bienvenida!
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
