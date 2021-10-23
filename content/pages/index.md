@@ -23,7 +23,6 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
-    title: Bienvenida
   - section_id: about
     type: section_content
     title: servicios
