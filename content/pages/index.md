@@ -54,7 +54,7 @@ sections:
         new_window: true
 seo:
   title: Ydelbys Pérez Duno
-  description: The preview of the Fresh theme
+  description: 'Desarrolladora mern stack y python. Transformación digital. '
   extra:
     - name: 'og:type'
       value: website
