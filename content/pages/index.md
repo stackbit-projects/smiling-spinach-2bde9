@@ -10,17 +10,12 @@ sections:
       digital con éxito. También apoyo a investigadores como tutora académica.
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Quiero ayudarte a incluir en tu trabajo o negocio estrategias digitales
+      que ayuden a mejorar tus resultados. Más allá de tener una página web o
+      publicar en redes sociales, es necesario crear estrategias y gestionar el
+      cambio para elevar tu desempeño al próximo nivel. En mi blog, publico
+      información valiosa para ayudarte con ello.
     actions: []
     type: section_content
     title: Te doy la bienvenida!
