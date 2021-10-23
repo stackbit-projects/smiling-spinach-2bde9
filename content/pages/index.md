@@ -53,7 +53,7 @@ sections:
         style: button
         new_window: true
 seo:
-  title: Stackbit Fresh Theme
+  title: Ydelbys Pérez Duno
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
