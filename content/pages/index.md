@@ -12,7 +12,7 @@ sections:
       paradigma de la complejidad.
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       Seguramente has leído o escuchado mucho sobre transformación
 
       digital, y tal vez, no tienes claro lo que ello significa o de qué se
@@ -25,19 +25,16 @@ sections:
 
 
       Quiero ayudarte a incluir en tu trabajo o negocio estrategias digitales
-      que ayuden a mejorar tus resultados. Más allá de tener una página web o
-      publicar en redes sociales, es necesario crear estrategias y gestionar el
-      cambio para elevar tu desempeño al próximo nivel. En mi blog estaré
-      publicando mis reflexiones sobre
-
-      la transformación digital y las tecnologías que están en tendencia, desde
-      lo teórico, desde la experiencia y desde el análisis de casos. 
+      que contribuyan a mejorar los resultados. Más allá de tener una página web
+      o publicar en redes sociales, es necesario gestionar sistemas complejos
+      que involucren estrategias de negocios y gestión del cambio para elevar el
+      desempeño organizacional al próximo nivel. En mi blog estaré publicando
+      mis reflexiones sobre la transformación digital y las tecnologías que
+      están en tendencia, desde lo teórico, desde la experiencia y desde el
+      análisis de casos.
 
 
       Gracias por leerme!
-
-
-
     actions: []
     type: section_content
     title: Te doy la bienvenida!
