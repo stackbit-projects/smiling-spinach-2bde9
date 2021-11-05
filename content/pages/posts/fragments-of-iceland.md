@@ -41,10 +41,6 @@ seo:
       relativeUrl: true
 layout: post
 ---
-
-
-Seguramente has leído o escuchado mucho sobre transformación digital, y tal vez, no tienes claro lo que ello significa o de qué se trata. Quizá, también has sabido de empresas que tienen procesos automatizados,  páginas web, intranets, o tal vez una aplicación  móvil como estrategia de transformación digital. Te preguntarás,  ¿es suficiente esto para aplicar la transformación digital?
-
 En esta publicación quiero ayudarte a comprender de qué se trata la transformación digital, las posibilidades que brinda a una empresa o incluso al desempeño de un profesional.
 
 La transformación digital para una empresa, no es más que la migración a estrategias digitales en casi todas sus áreas, negocios, producción de bienes y servicios, mercadeo, gestión de talento humano, entre otros. Sin embargo
