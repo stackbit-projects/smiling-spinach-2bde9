@@ -60,8 +60,8 @@ sections:
       del negocio.
 
 
-      También soy desarrolladora de sistemas y páginas web que venden atendiendo
-      técnicas de copywriting, diseño ui/ux y adaptación responsiva.
+      Desarrollo de sistemas y páginas web que venden atendiendo técnicas de
+      copywriting, diseño ui/ux y adaptación responsiva.
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
