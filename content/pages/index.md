@@ -7,8 +7,8 @@ sections:
     title: 'Hola, Soy Ydelbys Pérez Duno.'
     content: >
       Ayudo a pymes y profesionales a iniciar su camino de transformación
-      digital con éxito. También apoyo a investigadores como tutora académica en
-      temas relacionados con la tecnología e innovación, especialmente desde el
+      digital con éxito y a investigadores como tutora académica en temas
+      relacionados con la tecnología e innovación, especialmente desde el
       paradigma de la complejidad.
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
