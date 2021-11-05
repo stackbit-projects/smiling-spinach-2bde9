@@ -41,6 +41,8 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Foto de [**Mikael Blomkvist**](https://www.pexels.com/es-es/@mikael-blomkvist?utm_content=attributionCopyText\&utm_medium=referral\&utm_source=pexels) en [**Pexels**](https://www.pexels.com/es-es/foto/marketing-hombre-gente-mujer-6476258/?utm_content=attributionCopyText\&utm_medium=referral\&utm_source=pexels)
+
 En esta publicación quiero ayudarte a comprender de qué se trata la transformación digital, las posibilidades que brinda a una empresa o incluso al desempeño de un profesional.
 
 La transformación digital para una empresa, no es más que la migración a estrategias digitales en casi todas sus áreas, negocios, producción de bienes y servicios, mercadeo, gestión de talento humano, entre otros. Sin embargo
