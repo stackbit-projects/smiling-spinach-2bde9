@@ -1,5 +1,5 @@
 ---
-title: ¿Transformación digital? ¿Eso es para mí o para mi negocio?
+title: ¿Transformación digital?
 excerpt: >-
   Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
